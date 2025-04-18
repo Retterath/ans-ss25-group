@@ -50,7 +50,7 @@ sudo apt-get install -y --no-install-recommends \
   libffi-dev \
   libfl-dev \
   libgc-dev \
-  libgc1c2 \
+  libgc1 \
   libgflags-dev \
   libgmp-dev \
   libgmp10 \
@@ -62,13 +62,6 @@ sudo apt-get install -y --no-install-recommends \
   libssl-dev \
   linux-headers-$KERNEL\
   make \
-  pkg-config \
-  python3-dev \
-  python3-ipaddr \
-  python3-pip \
-  python3-psutil \
-  python3-scapy \
-  python3-setuptools \
   tcpdump \
   unzip \
   vim \
